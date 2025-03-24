@@ -16,10 +16,7 @@ For support inquiries, feature requests, or bug reports, please contact us at:
 A: Othello Alpha is an iOS app that brings the classic board game Othello (also known as Reversi) to your device with an intelligent AI opponent.
 
 **Q: What devices are supported?**
-A: Othello Alpha is available for iPhone and iPad running iOS 15.0 or later.
-
-**Q: Is the app free?**
-A: Yes, Othello Alpha is free to download and play.
+A: Othello Alpha is available for iPhone and iPad running iOS 17.0 or later.
 
 ### Game Features
 
@@ -29,8 +26,8 @@ A: The app offers multiple AI difficulty levels to suit players of all skill lev
 **Q: Does the app support offline play?**
 A: Yes, all game features work offline once the app is installed.
 
-**Q: Does the app track game statistics?**
-A: Yes, the app keeps track of your win/loss record and provides detailed statistics for your games.
+**Q: Does the app expose AI statistics?**
+A: Yes, the app exports the AI model inference results.
 
 ## Bug Reports
 
@@ -53,7 +50,6 @@ We welcome your suggestions for improving Othello Alpha! To submit a feature req
 
 Othello Alpha respects your privacy. The app:
 - Does not collect any personal information
-- Stores game statistics locally on your device
 - Does not require an internet connection for gameplay
 
 ## Terms of Service
@@ -62,14 +58,6 @@ By using Othello Alpha, you agree to:
 - Use the app for personal, non-commercial purposes
 - Not attempt to reverse engineer or modify the app
 - Not use the app for any illegal purposes
-
-## Updates
-
-Stay tuned for future updates that will bring:
-- Additional AI difficulty levels
-- Online multiplayer support
-- Achievement system
-- More customization options
 
 ## Credits
 
