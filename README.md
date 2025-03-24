@@ -6,7 +6,7 @@ Welcome to the support page for Othello Alpha, your AI-powered Othello game for 
 
 For support inquiries, feature requests, or bug reports, please contact us at:
 - Email: doyend@gmail.com 
-- GitHub Issues: [Report an Issue](https://github.com/yidong/othello-alpha/issues)
+- GitHub Issues: [Report an Issue](https://github.com/yidong72/othello-alpha/issues)
 
 ## Frequently Asked Questions
 
@@ -35,7 +35,7 @@ A: Yes, the app keeps track of your win/loss record and provides detailed statis
 ## Bug Reports
 
 If you encounter any issues while playing Othello Alpha, please:
-1. Check if the issue has already been reported in our [GitHub Issues](https://github.com/yourusername/othello-alpha/issues)
+1. Check if the issue has already been reported in our [GitHub Issues](https://github.com/yidong72/othello-alpha/issues)
 2. If not, create a new issue with:
    - A description of the problem
    - Steps to reproduce
@@ -45,7 +45,7 @@ If you encounter any issues while playing Othello Alpha, please:
 ## Feature Requests
 
 We welcome your suggestions for improving Othello Alpha! To submit a feature request:
-1. Visit our [GitHub Issues](https://github.com/yourusername/othello-alpha/issues)
+1. Visit our [GitHub Issues](https://github.com/yidong72/othello-alpha/issues)
 2. Create a new issue with the "enhancement" label
 3. Describe your proposed feature in detail
 
